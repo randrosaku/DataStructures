@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LW1_intro/LW1.iml" filepath="$PROJECT_DIR$/LW1_intro/LW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LW1_intro/LW1A.iml" filepath="$PROJECT_DIR$/LW1_intro/LW1A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LW1A_intro(IntelliJ).iml" filepath="$PROJECT_DIR$/LW1A_intro(IntelliJ).iml" />
+      <module fileurl="file://$PROJECT_DIR$/LW1_intro/LW1_intro.iml" filepath="$PROJECT_DIR$/LW1_intro/LW1_intro.iml" />
+    </modules>
+  </component>
+</project>
